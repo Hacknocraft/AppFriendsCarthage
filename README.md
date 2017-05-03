@@ -1,0 +1,2 @@
+# AppFriendsCarthage
+AppFriends Carthage Integration
