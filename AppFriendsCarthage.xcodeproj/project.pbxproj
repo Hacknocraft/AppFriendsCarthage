@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		AFD9030D1EAD7AEA00A0025F /* AppFriendsCarthage.h in Headers */ = {isa = PBXBuildFile; fileRef = AFD9030B1EAD7AEA00A0025F /* AppFriendsCarthage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AFD903141EAD8FD500A0025F /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = AFD903131EAD8FD500A0025F /* Cartfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AFD903081EAD7AEA00A0025F /* AppFriendsCarthage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppFriendsCarthage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFD9030B1EAD7AEA00A0025F /* AppFriendsCarthage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppFriendsCarthage.h; sourceTree = "<group>"; };
 		AFD9030C1EAD7AEA00A0025F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFD903131EAD8FD500A0025F /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +32,7 @@
 		AFD902FE1EAD7AEA00A0025F = {
 			isa = PBXGroup;
 			children = (
+				AFD903131EAD8FD500A0025F /* Cartfile */,
 				AFD9030A1EAD7AEA00A0025F /* AppFriendsCarthage */,
 				AFD903091EAD7AEA00A0025F /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFD903141EAD8FD500A0025F /* Cartfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
