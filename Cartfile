@@ -10,5 +10,5 @@ github "socketio/socket.io-client-swift" ~> 8.3.3
 binary "https://raw.githubusercontent.com/Hacknocraft/AppFriendsUI/master/Carthage.json" ~> 2.0.3
 github "slackhq/SlackTextViewController" ~> 1.9.5
 github "JonasGessner/JGProgressHUD" ~> 1.4
-github "melvitax/AFDateHelper" ~> 3.5.3
+github "vittoriom/AFDateHelper" ~> 3.3.2
 github "Alamofire/AlamofireImage" ~> 3.1
