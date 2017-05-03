@@ -7,11 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF05C72D1EBA60B300445803 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7211EBA60B300445803 /* Alamofire.framework */; };
+		AF05C72E1EBA60B300445803 /* AlamofireImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7221EBA60B300445803 /* AlamofireImage.framework */; };
+		AF05C72F1EBA60B300445803 /* AppFriendsCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7231EBA60B300445803 /* AppFriendsCore.framework */; };
+		AF05C7301EBA60B300445803 /* AppFriendsUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7241EBA60B300445803 /* AppFriendsUI.framework */; };
+		AF05C7311EBA60B300445803 /* Base64.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7251EBA60B300445803 /* Base64.framework */; };
+		AF05C7321EBA60B300445803 /* Cloudinary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7261EBA60B300445803 /* Cloudinary.framework */; };
+		AF05C7331EBA60B300445803 /* CoreStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7271EBA60B300445803 /* CoreStore.framework */; };
+		AF05C7341EBA60B300445803 /* DateHelper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7281EBA60B300445803 /* DateHelper.framework */; };
+		AF05C7351EBA60B300445803 /* JGProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7291EBA60B300445803 /* JGProgressHUD.framework */; };
+		AF05C7361EBA60B300445803 /* JWT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C72A1EBA60B300445803 /* JWT.framework */; };
+		AF05C7371EBA60B300445803 /* SlackTextViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */; };
+		AF05C7381EBA60B300445803 /* SocketIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C72C1EBA60B300445803 /* SocketIO.framework */; };
 		AFD9030D1EAD7AEA00A0025F /* AppFriendsCarthage.h in Headers */ = {isa = PBXBuildFile; fileRef = AFD9030B1EAD7AEA00A0025F /* AppFriendsCarthage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AFD903141EAD8FD500A0025F /* Cartfile in Resources */ = {isa = PBXBuildFile; fileRef = AFD903131EAD8FD500A0025F /* Cartfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF05C7211EBA60B300445803 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		AF05C7221EBA60B300445803 /* AlamofireImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AlamofireImage.framework; path = Carthage/Build/iOS/AlamofireImage.framework; sourceTree = "<group>"; };
+		AF05C7231EBA60B300445803 /* AppFriendsCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppFriendsCore.framework; path = Carthage/Build/iOS/AppFriendsCore.framework; sourceTree = "<group>"; };
+		AF05C7241EBA60B300445803 /* AppFriendsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppFriendsUI.framework; path = Carthage/Build/iOS/AppFriendsUI.framework; sourceTree = "<group>"; };
+		AF05C7251EBA60B300445803 /* Base64.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Base64.framework; path = Carthage/Build/iOS/Base64.framework; sourceTree = "<group>"; };
+		AF05C7261EBA60B300445803 /* Cloudinary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cloudinary.framework; path = Carthage/Build/iOS/Cloudinary.framework; sourceTree = "<group>"; };
+		AF05C7271EBA60B300445803 /* CoreStore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreStore.framework; path = Carthage/Build/iOS/CoreStore.framework; sourceTree = "<group>"; };
+		AF05C7281EBA60B300445803 /* DateHelper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DateHelper.framework; path = Carthage/Build/iOS/DateHelper.framework; sourceTree = "<group>"; };
+		AF05C7291EBA60B300445803 /* JGProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JGProgressHUD.framework; path = Carthage/Build/iOS/JGProgressHUD.framework; sourceTree = "<group>"; };
+		AF05C72A1EBA60B300445803 /* JWT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JWT.framework; path = Carthage/Build/iOS/JWT.framework; sourceTree = "<group>"; };
+		AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SlackTextViewController.framework; path = Carthage/Build/iOS/SlackTextViewController.framework; sourceTree = "<group>"; };
+		AF05C72C1EBA60B300445803 /* SocketIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SocketIO.framework; path = Carthage/Build/iOS/SocketIO.framework; sourceTree = "<group>"; };
 		AFD903081EAD7AEA00A0025F /* AppFriendsCarthage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppFriendsCarthage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFD9030B1EAD7AEA00A0025F /* AppFriendsCarthage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppFriendsCarthage.h; sourceTree = "<group>"; };
 		AFD9030C1EAD7AEA00A0025F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -23,18 +47,50 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF05C72D1EBA60B300445803 /* Alamofire.framework in Frameworks */,
+				AF05C72E1EBA60B300445803 /* AlamofireImage.framework in Frameworks */,
+				AF05C72F1EBA60B300445803 /* AppFriendsCore.framework in Frameworks */,
+				AF05C7301EBA60B300445803 /* AppFriendsUI.framework in Frameworks */,
+				AF05C7311EBA60B300445803 /* Base64.framework in Frameworks */,
+				AF05C7321EBA60B300445803 /* Cloudinary.framework in Frameworks */,
+				AF05C7331EBA60B300445803 /* CoreStore.framework in Frameworks */,
+				AF05C7341EBA60B300445803 /* DateHelper.framework in Frameworks */,
+				AF05C7351EBA60B300445803 /* JGProgressHUD.framework in Frameworks */,
+				AF05C7361EBA60B300445803 /* JWT.framework in Frameworks */,
+				AF05C7371EBA60B300445803 /* SlackTextViewController.framework in Frameworks */,
+				AF05C7381EBA60B300445803 /* SocketIO.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AF05C7201EBA60B300445803 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AF05C7211EBA60B300445803 /* Alamofire.framework */,
+				AF05C7221EBA60B300445803 /* AlamofireImage.framework */,
+				AF05C7231EBA60B300445803 /* AppFriendsCore.framework */,
+				AF05C7241EBA60B300445803 /* AppFriendsUI.framework */,
+				AF05C7251EBA60B300445803 /* Base64.framework */,
+				AF05C7261EBA60B300445803 /* Cloudinary.framework */,
+				AF05C7271EBA60B300445803 /* CoreStore.framework */,
+				AF05C7281EBA60B300445803 /* DateHelper.framework */,
+				AF05C7291EBA60B300445803 /* JGProgressHUD.framework */,
+				AF05C72A1EBA60B300445803 /* JWT.framework */,
+				AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */,
+				AF05C72C1EBA60B300445803 /* SocketIO.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		AFD902FE1EAD7AEA00A0025F = {
 			isa = PBXGroup;
 			children = (
 				AFD903131EAD8FD500A0025F /* Cartfile */,
 				AFD9030A1EAD7AEA00A0025F /* AppFriendsCarthage */,
 				AFD903091EAD7AEA00A0025F /* Products */,
+				AF05C7201EBA60B300445803 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,6 +133,7 @@
 				AFD903041EAD7AEA00A0025F /* Frameworks */,
 				AFD903051EAD7AEA00A0025F /* Headers */,
 				AFD903061EAD7AEA00A0025F /* Resources */,
+				AF05C73A1EBA60C800445803 /* Carthage */,
 			);
 			buildRules = (
 			);
@@ -130,6 +187,32 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		AF05C73A1EBA60C800445803 /* Carthage */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/AppFriendsCore.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Cloudinary.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CoreStore.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/JWT.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SocketIO.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Base64.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/AppFriendsUI.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SlackTextViewController.framework",
+			);
+			name = Carthage;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		AFD903031EAD7AEA00A0025F /* Sources */ = {
@@ -249,6 +332,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = AppFriendsCarthage/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -267,6 +354,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = AppFriendsCarthage/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -295,6 +386,7 @@
 				AFD903121EAD7AEA00A0025F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
