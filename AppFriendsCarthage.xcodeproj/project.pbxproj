@@ -14,7 +14,6 @@
 		AF05C7311EBA60B300445803 /* Base64.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7251EBA60B300445803 /* Base64.framework */; };
 		AF05C7321EBA60B300445803 /* Cloudinary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7261EBA60B300445803 /* Cloudinary.framework */; };
 		AF05C7331EBA60B300445803 /* CoreStore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7271EBA60B300445803 /* CoreStore.framework */; };
-		AF05C7341EBA60B300445803 /* DateHelper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7281EBA60B300445803 /* DateHelper.framework */; };
 		AF05C7351EBA60B300445803 /* JGProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C7291EBA60B300445803 /* JGProgressHUD.framework */; };
 		AF05C7361EBA60B300445803 /* JWT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C72A1EBA60B300445803 /* JWT.framework */; };
 		AF05C7371EBA60B300445803 /* SlackTextViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */; };
@@ -31,7 +30,6 @@
 		AF05C7251EBA60B300445803 /* Base64.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Base64.framework; path = Carthage/Build/iOS/Base64.framework; sourceTree = "<group>"; };
 		AF05C7261EBA60B300445803 /* Cloudinary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cloudinary.framework; path = Carthage/Build/iOS/Cloudinary.framework; sourceTree = "<group>"; };
 		AF05C7271EBA60B300445803 /* CoreStore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreStore.framework; path = Carthage/Build/iOS/CoreStore.framework; sourceTree = "<group>"; };
-		AF05C7281EBA60B300445803 /* DateHelper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DateHelper.framework; path = Carthage/Build/iOS/DateHelper.framework; sourceTree = "<group>"; };
 		AF05C7291EBA60B300445803 /* JGProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JGProgressHUD.framework; path = Carthage/Build/iOS/JGProgressHUD.framework; sourceTree = "<group>"; };
 		AF05C72A1EBA60B300445803 /* JWT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JWT.framework; path = Carthage/Build/iOS/JWT.framework; sourceTree = "<group>"; };
 		AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SlackTextViewController.framework; path = Carthage/Build/iOS/SlackTextViewController.framework; sourceTree = "<group>"; };
@@ -54,7 +52,6 @@
 				AF05C7311EBA60B300445803 /* Base64.framework in Frameworks */,
 				AF05C7321EBA60B300445803 /* Cloudinary.framework in Frameworks */,
 				AF05C7331EBA60B300445803 /* CoreStore.framework in Frameworks */,
-				AF05C7341EBA60B300445803 /* DateHelper.framework in Frameworks */,
 				AF05C7351EBA60B300445803 /* JGProgressHUD.framework in Frameworks */,
 				AF05C7361EBA60B300445803 /* JWT.framework in Frameworks */,
 				AF05C7371EBA60B300445803 /* SlackTextViewController.framework in Frameworks */,
@@ -75,7 +72,6 @@
 				AF05C7251EBA60B300445803 /* Base64.framework */,
 				AF05C7261EBA60B300445803 /* Cloudinary.framework */,
 				AF05C7271EBA60B300445803 /* CoreStore.framework */,
-				AF05C7281EBA60B300445803 /* DateHelper.framework */,
 				AF05C7291EBA60B300445803 /* JGProgressHUD.framework */,
 				AF05C72A1EBA60B300445803 /* JWT.framework */,
 				AF05C72B1EBA60B300445803 /* SlackTextViewController.framework */,

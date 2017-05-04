@@ -45,7 +45,7 @@ git tag -a ${NEWVERSIONSTRING} -m "release ${NEWVERSIONSTRING}"
 git push --tag
 
 echo "Github release ..."
-export GITHUB_TOKEN=147faae77c922fce88b1ee69123c2d6f06a38336
+export GITHUB_TOKEN=9f25b727bc5c7a97dace8a0e4aaca6aecd0d6f04
 github-release release \
     --user hacknocraft \
     --repo ${PRODUCTNAME} \
